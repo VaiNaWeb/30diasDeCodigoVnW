@@ -9,3 +9,4 @@ Inspirado em eventos como o [Hacktoberfest](https://hacktoberfest.digitalocean.c
 - Acompanhe a hashtag e se inspire com o trabalho das outras pessoas que estão participando do desafio;
 - Engaje a sua galera. Programar é bom, mas programar entre os nossos é muito melhor! Convide seus colegas que já passaram pelo programa e por motivos maiores precisaram se afastar da turma a participar do desafio com você!
 - Feedback é um presente. Dê **feedbacks** construtivos nos desafios de outras pessoas e aceite este presente nos seus desafios também;
+- **Se desafie**! Aproveite os desafios para aprender coisas novas sobre as tecnologias que você sempre teve curiosidade;
