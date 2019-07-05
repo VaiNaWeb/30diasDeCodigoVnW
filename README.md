@@ -13,13 +13,38 @@ Inspirado em eventos como o [Hacktoberfest](https://hacktoberfest.digitalocean.c
 
 ## Cronograma de desafios
 
-| Desafio                                  | Data           |
-| ---------------------------------------- |----------------|
-| Página Cadastro de usuário               | Dia 1 - 8 jul  |
-| Página de conteúdo não encontrado        | Dia 2 - 9 jul  |
-| Página de um aplicativo de TV (Netflix)  | Dia 3 - 10 jul |
-| Página de aplicativo rastreador de treino| Dia 4 - 11 jul |
-| Página de um aplicativo de todo          | Dia 5 - 12 jul |
+| Index   | Desafio                                  | Data    |
+|---------| ---------------------------------------- |---------|
+| Dia 00  | Desenho mostrinho com CSS                | 08 jul  |
+| Dia 01  | Página Cadastro de usuário               | 09 jul  |
+| Dia 02  | Página de conteúdo não encontrado        | 10 jul  |
+| Dia 03  | Página de um aplicativo de TV (Netflix)  | 11 jul  |
+| Dia 04  | Página de aplicativo rastreador de treino| 12 jul  |
+| Dia 05  | Página de um aplicativo de todo          | 15 jul  |
+| Dia 06  | Desenho de uma casa                      | 16 jul  |
+| Dia 07  | -          | 17 jul  |
+| Dia 08  | -          | 18 jul  |
+| Dia 09  | -          | 19 jul  |
+| Dia 10  | -          | 22 jul  |
+| Dia 11  | -          | 23 jul  |
+| Dia 12  | -          | 24 jul  |
+| Dia 13  | Desenho de algo que lembre um filme      | 25 jul  |
+| Dia 14  | -          | 26 jul  |
+| Dia 15  | -          | 29 jul  |
+| Dia 16  | -          | 30 jul  |
+| Dia 17  | -          | 31 jul  |
+| Dia 18  | -          | 01 ago  |
+| Dia 19  | -          | 02 ago  |
+| Dia 20  | Desenho de uma planta                    | 05 ago  |
+| Dia 21  | -          | 06 ago  |
+| Dia 22  | -          | 07 ago  |
+| Dia 23  | -          | 08 ago  |
+| Dia 24  | -          | 09 ago  |
+| Dia 25  | Desenho de algo que lembre sua comunidade| 12 ago  |
+| Dia 26  | -          | 13 ago  |
+| Dia 27  | -          | 14 ago  |
+| Dia 28  | -          | 15 ago  |
+| Dia 29  | -          | 16 ago  |
 
 ## Cronograma de lives
 
@@ -30,5 +55,5 @@ Inspirado em eventos como o [Hacktoberfest](https://hacktoberfest.digitalocean.c
 | [aberta] - revisão de desafios                          | 19 jul      |
 | [revisão] - animações com css                           | 26 jul      |
 | [revisão] - unidades de medida                          | ?           |
-| [revisão] - flexbox                                     | ?           |
 | [revisão] - passando uma página desktop para responsivo | ?           |
+| [revisão] - flexbox                                     | ?           |
