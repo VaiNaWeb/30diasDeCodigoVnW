@@ -56,4 +56,4 @@ Inspirado em eventos como o [Hacktoberfest](https://hacktoberfest.digitalocean.c
 | [revisão] - animações com css                           | 26 jul      |
 | [revisão] - unidades de medida                          | 2 ago       |
 | [revisão] - passando uma página desktop para responsivo | 9 ago       |
-| [revisão] - flexbox                                     | 16 ago      |
+| [revisão] - flexbox e grid layout                       | 16 ago      |
