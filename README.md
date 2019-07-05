@@ -39,12 +39,12 @@ Inspirado em eventos como o [Hacktoberfest](https://hacktoberfest.digitalocean.c
 | Dia 21  | Página inicial do GitHub redesenhada                  | 06 ago  |
 | Dia 22  | Página inicial da Uber                                | 07 ago  |
 | Dia 23  | Desenho de sua escolha                                | 08 ago  |
-| Dia 24  | -          | 09 ago  |
+| Dia 24  | Página de pergunta do Stackoverflow redesenhada       | 09 ago  |
 | Dia 25  | Desenho de algo que lembre sua comunidade             | 12 ago  |
-| Dia 26  | -          | 13 ago  |
+| Dia 26  | Página de divulgação de serviços médicos              | 13 ago  |
 | Dia 27  | Página de sua escolha                                 | 14 ago  |
-| Dia 28  | -          | 15 ago  |
-| Dia 29  | -          | 16 ago  |
+| Dia 28  | Página de perfil do usurio do Linkedin redesenhada    | 15 ago  |
+| Dia 29  | Página do Instagram redesenhada                       | 16 ago  |
 
 ## Cronograma de lives
 
@@ -54,6 +54,6 @@ Inspirado em eventos como o [Hacktoberfest](https://hacktoberfest.digitalocean.c
 | [revisão] - git e github                                | 12 jul      |
 | [aberta]  - revisão de desafios                         | 19 jul      |
 | [revisão] - animações com css                           | 26 jul      |
-| [revisão] - unidades de medida                          | ?           |
-| [revisão] - passando uma página desktop para responsivo | ?           |
-| [revisão] - flexbox                                     | ?           |
+| [revisão] - unidades de medida                          | 2 ago       |
+| [revisão] - passando uma página desktop para responsivo | 9 ago       |
+| [revisão] - flexbox                                     | 16 ago      |
