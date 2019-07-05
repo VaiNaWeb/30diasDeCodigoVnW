@@ -16,14 +16,14 @@ Inspirado em eventos como o [Hacktoberfest](https://hacktoberfest.digitalocean.c
 | Index   | Desafio                                  | Data    |
 |---------| ---------------------------------------- |---------|
 | Dia 00  | Desenho mostrinho com CSS                | 08 jul  |
-| Dia 01  | Página Cadastro de usuário               | 09 jul  |
+| Dia 01  | Página de cadastro de usuário            | 09 jul  |
 | Dia 02  | Página de conteúdo não encontrado        | 10 jul  |
 | Dia 03  | Página de um aplicativo de TV (Netflix)  | 11 jul  |
-| Dia 04  | Página de aplicativo rastreador de treino| 12 jul  |
+| Dia 04  | Página de aplicativo tracker de treino   | 12 jul  |
 | Dia 05  | Página de um aplicativo de todo          | 15 jul  |
 | Dia 06  | Desenho de uma casa                      | 16 jul  |
-| Dia 07  | -          | 17 jul  |
-| Dia 08  | -          | 18 jul  |
+| Dia 07  | Página de perfil de usuário              | 17 jul  |
+| Dia 08  | Página de aplicativo Pomodoro tracker    | 18 jul  |
 | Dia 09  | -          | 19 jul  |
 | Dia 10  | -          | 22 jul  |
 | Dia 11  | -          | 23 jul  |
