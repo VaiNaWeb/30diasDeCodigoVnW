@@ -37,7 +37,7 @@ Inspirado em eventos como o [Hacktoberfest](https://hacktoberfest.digitalocean.c
 | Dia 19  | Página de blog (lista de posts)                       | 02 ago  |
 | Dia 20  | Desenho de uma planta                                 | 05 ago  |
 | Dia 21  | Página inicial do GitHub redesenhada                  | 06 ago  |
-| Dia 22  | -          | 07 ago  |
+| Dia 22  | Página inicial da Uber                                | 07 ago  |
 | Dia 23  | Desenho de sua escolha                                | 08 ago  |
 | Dia 24  | -          | 09 ago  |
 | Dia 25  | Desenho de algo que lembre sua comunidade             | 12 ago  |
