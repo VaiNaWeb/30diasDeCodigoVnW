@@ -24,8 +24,8 @@ Inspirado em eventos como o [Hacktoberfest](https://hacktoberfest.digitalocean.c
 | Dia 06  | Desenho de uma casa                      | 16 jul  |
 | Dia 07  | Página de perfil de usuário              | 17 jul  |
 | Dia 08  | Página de aplicativo Pomodoro tracker    | 18 jul  |
-| Dia 09  | -          | 19 jul  |
-| Dia 10  | -          | 22 jul  |
+| Dia 09  | Desenho de sua escolha                   | 19 jul  |
+| Dia 10  | Landing page pessoal                     | 22 jul  |
 | Dia 11  | -          | 23 jul  |
 | Dia 12  | -          | 24 jul  |
 | Dia 13  | Desenho de algo que lembre um filme      | 25 jul  |
@@ -38,11 +38,11 @@ Inspirado em eventos como o [Hacktoberfest](https://hacktoberfest.digitalocean.c
 | Dia 20  | Desenho de uma planta                    | 05 ago  |
 | Dia 21  | -          | 06 ago  |
 | Dia 22  | -          | 07 ago  |
-| Dia 23  | -          | 08 ago  |
+| Dia 23  | Desenho de sua escolha          | 08 ago  |
 | Dia 24  | -          | 09 ago  |
 | Dia 25  | Desenho de algo que lembre sua comunidade| 12 ago  |
 | Dia 26  | -          | 13 ago  |
-| Dia 27  | -          | 14 ago  |
+| Dia 27  | Página de sua escolha          | 14 ago  |
 | Dia 28  | -          | 15 ago  |
 | Dia 29  | -          | 16 ago  |
 
@@ -50,9 +50,9 @@ Inspirado em eventos como o [Hacktoberfest](https://hacktoberfest.digitalocean.c
 
 | Conteúdo                                                | Data        |
 | ------------------------------------------------------- |-------------|
-| [aberta] - apresentação do desafio                      | 8 jul       |
+| [aberta]  - apresentação do desafio                     | 8 jul       |
 | [revisão] - git e github                                | 12 jul      |
-| [aberta] - revisão de desafios                          | 19 jul      |
+| [aberta]  - revisão de desafios                         | 19 jul      |
 | [revisão] - animações com css                           | 26 jul      |
 | [revisão] - unidades de medida                          | ?           |
 | [revisão] - passando uma página desktop para responsivo | ?           |
