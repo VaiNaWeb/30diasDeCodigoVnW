@@ -13,36 +13,36 @@ Inspirado em eventos como o [Hacktoberfest](https://hacktoberfest.digitalocean.c
 
 ## Cronograma de desafios
 
-| Index   | Desafio                                         | Data    |
-|---------| ----------------------------------------------- |---------|
-| Dia 00  | Desenho mostrinho com CSS                       | 08 jul  |
-| Dia 01  | Página de cadastro de usuário                   | 09 jul  |
-| Dia 02  | Página de conteúdo não encontrado               | 10 jul  |
-| Dia 03  | Página de um aplicativo de TV (Netflix/Youtube) | 11 jul  |
-| Dia 04  | Página de aplicativo tracker de treino          | 12 jul  |
-| Dia 05  | Página de um aplicativo de todo                 | 15 jul  |
-| Dia 06  | Desenho de uma casa                             | 16 jul  |
-| Dia 07  | Página de perfil de usuário                     | 17 jul  |
-| Dia 08  | Página de aplicativo Pomodoro tracker           | 18 jul  |
-| Dia 09  | Desenho de sua escolha                          | 19 jul  |
-| Dia 10  | Landing page pessoal                            | 22 jul  |
-| Dia 11  | Página de login                                 | 23 jul  |
-| Dia 12  | Desenho de algo que lembre um filme             | 24 jul  |
-| Dia 13  | Página de um aplicativo de música (Spotify)     | 25 jul  |
-| Dia 14  | Página redesenhada do YouTube                   | 26 jul  |
-| Dia 15  | Página redesenhada do Google                    | 29 jul  |
-| Dia 16  | Desenho de sua escolha                          | 30 jul  |
-| Dia 17  | -          | 31 jul  |
-| Dia 18  | -          | 01 ago  |
-| Dia 19  | -          | 02 ago  |
-| Dia 20  | Desenho de uma planta                           | 05 ago  |
-| Dia 21  | -          | 06 ago  |
+| Index   | Desafio                                               | Data    |
+|---------| ----------------------------------------------------- |---------|
+| Dia 00  | Desenho mostrinho com CSS                             | 08 jul  |
+| Dia 01  | Página de cadastro de usuário                         | 09 jul  |
+| Dia 02  | Página de conteúdo não encontrado                     | 10 jul  |
+| Dia 03  | Página de um aplicativo de TV (Netflix/Youtube)       | 11 jul  |
+| Dia 04  | Página de aplicativo tracker de treino                | 12 jul  |
+| Dia 05  | Página de um aplicativo de todo                       | 15 jul  |
+| Dia 06  | Desenho de uma casa                                   | 16 jul  |
+| Dia 07  | Página de perfil de usuário                           | 17 jul  |
+| Dia 08  | Página de aplicativo Pomodoro tracker                 | 18 jul  |
+| Dia 09  | Desenho de sua escolha                                | 19 jul  |
+| Dia 10  | Landing page pessoal                                  | 22 jul  |
+| Dia 11  | Página de login                                       | 23 jul  |
+| Dia 12  | Desenho de algo que lembre um filme                   | 24 jul  |
+| Dia 13  | Página de um aplicativo de música (Spotify)           | 25 jul  |
+| Dia 14  | Página redesenhada do YouTube                         | 26 jul  |
+| Dia 15  | Página redesenhada do Google                          | 29 jul  |
+| Dia 16  | Desenho de sua escolha                                | 30 jul  |
+| Dia 17  | Landing page de divulgação de aplicativo              | 31 jul  |
+| Dia 18  | Página de aplicativo de encontros redesenhada (Tinder)| 01 ago  |
+| Dia 19  | Página de blog (lista de posts)                       | 02 ago  |
+| Dia 20  | Desenho de uma planta                                 | 05 ago  |
+| Dia 21  | Página inicial do GitHub redesenhada                  | 06 ago  |
 | Dia 22  | -          | 07 ago  |
-| Dia 23  | Desenho de sua escolha                          | 08 ago  |
+| Dia 23  | Desenho de sua escolha                                | 08 ago  |
 | Dia 24  | -          | 09 ago  |
-| Dia 25  | Desenho de algo que lembre sua comunidade       | 12 ago  |
+| Dia 25  | Desenho de algo que lembre sua comunidade             | 12 ago  |
 | Dia 26  | -          | 13 ago  |
-| Dia 27  | Página de sua escolha          | 14 ago  |
+| Dia 27  | Página de sua escolha                                 | 14 ago  |
 | Dia 28  | -          | 15 ago  |
 | Dia 29  | -          | 16 ago  |
 
